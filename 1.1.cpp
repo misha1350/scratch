@@ -7,9 +7,9 @@ int main()
     cin >> a;
     cin >> b;
     cin >> c;
-    if (a > c)
+    if (a>c)
     {
-        if (a > b)
+        if (a>b)
         {
             cout << a;
         }
@@ -21,7 +21,7 @@ int main()
     }
     else
     {
-        if (b > c)
+        if (b>c)
         {
             cout << b;
         }
